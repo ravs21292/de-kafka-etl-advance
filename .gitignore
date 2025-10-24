@@ -1,0 +1,29 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+assitantenv/
+
+# Large model and data folders
+models/
+data/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+*.pkl
+*.h5
+
+# Logs and outputs
+logs/
+outputs/
+
+# IDE and system files
+.vscode/
+.idea/
+.DS_Store
+
+
+test_env
