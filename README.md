@@ -78,25 +78,6 @@ SELECT * FROM sensors LIMIT 10;
 
 ## 🗂️ Project Structure
 
-```
-kafka-etl-advanced/
-├── docker-compose.yml              # KRaft-based Docker setup
-├── Dockerfile                      # ETL service container
-├── requirements.txt                # Python dependencies
-├── sensor_data.csv                 # Sample sensor data (100K records)
-├── run_complete_pipeline.py        # Complete pipeline runner
-├── init_pipeline.py               # Pipeline initialization
-├── multi_producer_scalable.py     # Multi-producer implementation
-├── multi_consumer_scalable.py     # Multi-consumer implementation
-├── clear_database.py              # Database cleanup
-├── validate_data.py               # Data validation
-├── create_topic.py                # Topic creation utility
-├── kafka_topic_manager.py         # Topic management utilities
-├── etl_kafka_producer.py          # Main producer entry point
-└── db/
-    └── async_postgres_optimized.py # Optimized PostgreSQL client
-```
-
 ## ⚙️ Configuration
 
 ### Kafka Setup
