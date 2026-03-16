@@ -1,6 +1,6 @@
 # Kafka ETL Pipeline with KRaft Mode
 
-A scalable, high-performance ETL pipeline using Apache Kafka in KRaft mode (no Zookeeper required) with PostgreSQL for data storage.
+This project is part of my backend engineering portfolio. A scalable, high-performance ETL pipeline using Apache Kafka in KRaft mode (no Zookeeper required) with PostgreSQL for data storage.
 
 ## 🏗️ Architecture
 
