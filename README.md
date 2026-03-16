@@ -1,6 +1,9 @@
 # Kafka ETL Pipeline with KRaft Mode
 
-This project is part of my backend engineering portfolio. A scalable, high-performance ETL pipeline using Apache Kafka in KRaft mode (no Zookeeper required) with PostgreSQL for data storage.
+This project is part of my backend engineering portfolio. 
+The backend architecture, API design, and implementation were designed and built by me while exploring and learning core backend development concepts.
+
+A scalable, high-performance ETL pipeline using Apache Kafka in KRaft mode (no Zookeeper required) with PostgreSQL for data storage.
 
 ## 🏗️ Architecture
 
